@@ -17,4 +17,4 @@ This project is focused on building a machine learning-based movie recommendatio
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/venugopalkadamba/Movie-Recommendation-System-ML-React-Flask/blob/main/Movie_Recommendation_Codes
